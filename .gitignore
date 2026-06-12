@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+.omx/
+.env
+.env.*
+*.dec
+*.plaintext
+.venv/
+__pycache__/
+dist/
+.sisyphus/
+.omo/
+
+.agents/
